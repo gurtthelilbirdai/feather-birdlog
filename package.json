@@ -1,0 +1,7 @@
+{
+  "name": "feather-birdlog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shared bird sighting log with a flock life list.",
+  "main": "api.js"
+}
